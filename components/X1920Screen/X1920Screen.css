@@ -1,0 +1,12 @@
+.x1920-screen {
+  align-items: flex-start;
+  background-color: var(--green-white);
+  border: 1px none;
+  display: flex;
+  height: 1080px;
+  justify-content: center;
+  min-width: 1920px;
+  position: relative;
+  width: 100%;
+}
+

@@ -1,0 +1,12 @@
+.x1920-drawer-menu-collapsed {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: #daf8d9;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  width: 56px;
+}
+

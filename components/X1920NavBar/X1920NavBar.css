@@ -1,0 +1,12 @@
+.x1920-nav-bar {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #cbe2fd;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  width: 56px;
+}
+

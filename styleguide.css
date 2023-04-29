@@ -1,0 +1,17 @@
+:root { 
+  --black: #000000;
+  --black-2: #0000008c;
+  --green-white: #ede8df;
+  --twilight-blue: #edfdfd;
+ 
+  --font-size-m: 48px;
+ 
+  --font-family-acme-regular: "Acme-Regular", Helvetica;
+}
+.acme-regular-normal-black-48px {
+  color: var(--black-2);
+  font-family: var(--font-family-acme-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

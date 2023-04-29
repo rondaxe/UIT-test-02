@@ -1,0 +1,25 @@
+.x1920x1080-uit-drawer-primary {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 1080px;
+  justify-content: center;
+  min-width: 1152px;
+  padding: 8px;
+  position: relative;
+}
+
+.x1920x1080-uit-drawer-primary-1 {
+  align-items: center;
+  background-color: #f4edd2;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 1080px;
+  justify-content: center;
+  padding: 8px;
+  width: 1152px;
+}
+

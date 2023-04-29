@@ -1,0 +1,45 @@
+.swap-primary {
+  align-items: center;
+  border: 2px dashed;
+  border-color: var(--black);
+  display: flex;
+  height: 363px;
+  justify-content: center;
+  min-width: 458px;
+  position: relative;
+}
+
+.title {
+  height: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.swap-primary.swap-primary-1 {
+  margin-right: -2.00px;
+  min-width: 42px;
+}
+
+.swap-primary.swap-primary-2 {
+  align-self: stretch;
+  flex: 1;
+  height: 1080px;
+  min-width: 1808px;
+}
+
+.swap-primary.swap-primary-2 .title,
+.swap-primary.swap-primary-3 .title {
+  margin-top: -2px;
+}
+
+.swap-primary.swap-primary-3 {
+  align-self: stretch;
+  flex: 1;
+  height: 1064px;
+  min-width: 40px;
+}
+

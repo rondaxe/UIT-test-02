@@ -1,0 +1,24 @@
+.b2-vertest {
+  align-items: center;
+  background-color: var(--twilight-blue);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 700px;
+  justify-content: center;
+  min-width: 1280px;
+  padding: 42px 80px;
+  position: relative;
+}
+
+.frame-4 {
+  align-self: stretch;
+  background-color: var(--green-white);
+  border: 3px dashed;
+  border-color: var(--black);
+  flex: 1;
+  height: 616px;
+  min-width: 1120px;
+  position: relative;
+}
+

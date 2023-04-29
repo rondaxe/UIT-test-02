@@ -1,0 +1,13 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/64345714f5b10d7d964576e6.64345715010d313007134b07.cioqbd1.rcp.png");
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
